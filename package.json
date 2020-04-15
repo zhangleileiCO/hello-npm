@@ -1,8 +1,9 @@
 {
-  "name": "hello-npm",
-  "version": "1.0.0",
+  "name": "@zhangleilei/hello-npm",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
+  "repository": "zhangleileiCO/hello-npm",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "webpack-dev-server --open development",
